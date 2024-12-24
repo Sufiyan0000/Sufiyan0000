@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Sufiyan0000
-- 👀 I’m interested in Web Development and Java programming.
-- 🌱 I’m currently learning Full stack web development and java programming.
+- 👀 I’m interested in CyberSecurity and Java Developer.
+- 🌱 I’m currently learning CyberSecurity by Google professional course (Google CyberSecurity Course).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : gmail : alimdsufiyan89@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: First I love to program and Now focused on saving my/organisation data and important assests from Threat Actors.
 
 <!---
 Sufiyan0000/Sufiyan0000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
